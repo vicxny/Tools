@@ -9,8 +9,8 @@
 
 ## PC Build
 
-[Give Your Desktop a Minimal, Functional and Elegant Look]()
+[Give Your Desktop a Minimal, Functional and Elegant Look](https://www.youtube.com/watch?v=UYmtH12zpH0)
 
-[Gaming Desktop 2 - Make Windows Look Better]()
+[Gaming Desktop 2 - Make Windows Look Better](https://www.youtube.com/watch?v=Xv3RLkTdY3k)
 
-[How to Pin Recycle Bin to Taskbar Windows 10 The Easy Way ♻]()
+[How to Pin Recycle Bin to Taskbar Windows 10 The Easy Way ♻](https://windowsloop.com/pin-recycle-bin-to-taskbar/)
