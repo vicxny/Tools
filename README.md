@@ -1,5 +1,10 @@
 # Tools
 
+## Books
+ 
+The Programatic Programmer
+Think Like a Programmer: an introduction to Creative Problem Solving
+
 ## VS Code
 
 ### Extension
