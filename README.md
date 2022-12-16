@@ -2,9 +2,9 @@
 
 ## Books
  
-The Programatic Programmer
+[The Programatic Programmer](https://www.google.com/search?q=The+Programatic+Programmer&oq=The+Programatic+Programmer&aqs=chrome..69i57.836j0j1&sourceid=chrome&ie=UTF-8)
 
-Think Like a Programmer: an introduction to Creative Problem Solving
+[Think Like a Programmer: an introduction to Creative Problem Solving](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
 
 ## VS Code
 
