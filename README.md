@@ -6,6 +6,9 @@
 
 [Think Like a Programmer: an introduction to Creative Problem Solving](https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
 
+## Youtube
+[MIT OpenCourseWare - Computer Science](https://www.youtube.com/@mitocw/playlists?view=50&sort=dd&shelf_id=5)
+
 ## VS Code
 
 ### Extension
