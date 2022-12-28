@@ -32,7 +32,7 @@ https://www.autohotkey.com/
 
 
 ## Windows
-[PowerToys](ttps://learn.microsoft.com/en-us/windows/powertoys/)
+[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 
 ## Mac
 [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
