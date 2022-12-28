@@ -15,7 +15,7 @@ Harvard - Computer Science:
 
 [IBM Data Analyst Complete Course | Data Analyst Tutorial For Beginners](https://www.youtube.com/watch?v=1PAy6d16ADQ)
 
-## VS Code
+## [VS Code](https://code.visualstudio.com/download)
 
 ### Extension
 
