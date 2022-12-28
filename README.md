@@ -29,3 +29,11 @@ https://www.autohotkey.com/
 [Gaming Desktop 2 - Make Windows Look Better](https://www.youtube.com/watch?v=Xv3RLkTdY3k)
 
 [How to Pin Recycle Bin to Taskbar Windows 10 The Easy Way ♻](https://windowsloop.com/pin-recycle-bin-to-taskbar/)
+
+
+## Windows
+[PowerToys](ttps://learn.microsoft.com/en-us/windows/powertoys/)
+
+## Mac
+[Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
+
