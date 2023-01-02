@@ -23,8 +23,11 @@ Harvard - Computer Science:
 
 ### Extension
 
+[LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
 ### Short-Cut
-https://www.autohotkey.com/
+
+[autohotkey](https://www.autohotkey.com/)
 
 ## PC Build
 
