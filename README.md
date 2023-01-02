@@ -25,7 +25,9 @@ Harvard - Computer Science:
 
 ## [VS Code](https://code.visualstudio.com/download)
 
-### [Extension](https://x-team.com/blog/best-vscode-extensions/) 
+### Extension
+
+[Best VSCode Extension](https://x-team.com/blog/best-vscode-extensions/) 
 
 [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
