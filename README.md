@@ -4,6 +4,10 @@
 
 [200 Universities Just Launched 850+ Free Online Courses](https://www.freecodecamp.org/news/new-online-courses/)
 
+ - [ ] (Python and Pandas for Data Engineering)[https://www.classcentral.com/course/python-and-pandas-for-data-engineering-duke-70670]
+ - [ ] (Scripting with Python and SQL for Data Engineering)[https://www.classcentral.com/course/scripting-with-python-sql-for-data-engineering-du-70668]
+
+
 ## Books
  
 [The Programatic Programmer](https://www.google.com/search?q=The+Programatic+Programmer&oq=The+Programatic+Programmer&aqs=chrome..69i57.836j0j1&sourceid=chrome&ie=UTF-8)
