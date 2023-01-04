@@ -7,8 +7,8 @@
 [200 Universities Just Launched 850+ Free Online Courses](https://www.freecodecamp.org/news/new-online-courses/)
 
  - [ ] [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)
- - [ ] [Python and Pandas for Data Engineering](https://www.classcentral.com/course/python-and-pandas-for-data-engineering-duke-70670)
- - [ ] [Scripting with Python and SQL for Data Engineering](https://www.classcentral.com/course/scripting-with-python-sql-for-data-engineering-du-70668)
+ - [ ] [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke?irclickid=Q4ZU1OV2uxyITYj1oJXqE0rLUkAzKDQrh1Ms100&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c)
+ - [ ] [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
 
 
 ## Books
