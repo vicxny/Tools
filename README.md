@@ -4,13 +4,16 @@
 
 [200 Universities Just Launched 850+ Free Online Courses](https://www.freecodecamp.org/news/new-online-courses/)
 
-[IBM Professional Certificates](https://www.coursera.org/search?query=ibm&index=prod_all_launched_products_term_optimization&entityTypeDescription=Professional%20Certificates&allLanguages=English) - [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) 
- 
+
+[AWS](https://www.coursera.org/aws) - [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) & [AWS Cloud Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
+
 [Google Professional Certificates](https://www.coursera.org/google-career-certificates)
 
+[IBM Professional Certificates](https://www.coursera.org/search?query=ibm&index=prod_all_launched_products_term_optimization&entityTypeDescription=Professional%20Certificates&allLanguages=English) - [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering) 
+ 
 [Meta Professional Certificates](https://www.coursera.org/meta) - [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
 
-[AWS](https://www.coursera.org/aws) - [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)
+[]()
 
  [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)
  - [ ] [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke?irclickid=Q4ZU1OV2uxyITYj1oJXqE0rLUkAzKDQrh1Ms100&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c)
