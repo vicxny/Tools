@@ -1,7 +1,5 @@
 # Tools
 
-## Reddit
-
 ## Websites
 
 [200 Universities Just Launched 850+ Free Online Courses](https://www.freecodecamp.org/news/new-online-courses/)
@@ -62,3 +60,11 @@ Harvard - Computer Science:
 
 [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 
+
+## Coursera
+
+[IBM Professional Certificates](https://www.coursera.org/search?query=ibm&index=prod_all_launched_products_term_optimization&entityTypeDescription=Professional%20Certificates&allLanguages=English)
+
+[Google Professional Certificates](https://www.coursera.org/google-career-certificates)
+
+[Meta Professional Certificates](https://www.coursera.org/meta)
