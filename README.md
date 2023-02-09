@@ -68,3 +68,6 @@ Harvard - Computer Science:
 [Google Professional Certificates](https://www.coursera.org/google-career-certificates)
 
 [Meta Professional Certificates](https://www.coursera.org/meta)
+
+[AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)
+
