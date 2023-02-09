@@ -56,6 +56,9 @@ Harvard - Computer Science:
 
 [Power Automate](https://learn.microsoft.com/en-us/power-automate/getting-started)
 
-## Mac
+[Power Apps](https://learn.microsoft.com/en-us/power-apps/)
+
+## Apple
+
 [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 
