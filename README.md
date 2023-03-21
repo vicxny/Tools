@@ -23,6 +23,7 @@
 
 [Beginner Boost 2021](https://www.youtube.com/playlist?list=PLrK9UeDMcQLre1yPasCnuKvWvyXKzmKhW)
 
+[Software Test](https://cs.gmu.edu/~offutt/softwaretest/)
 
 ## Books
  
