@@ -25,6 +25,8 @@
 
 [Software Test](https://cs.gmu.edu/~offutt/softwaretest/)
 
+[Full-Length Hacking Courses](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
+
 ## Books
  
 [The Programatic Programmer](https://www.google.com/search?q=The+Programatic+Programmer&oq=The+Programatic+Programmer&aqs=chrome..69i57.836j0j1&sourceid=chrome&ie=UTF-8)
