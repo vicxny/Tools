@@ -23,7 +23,11 @@
 
 [Beginner Boost 2021](https://www.youtube.com/playlist?list=PLrK9UeDMcQLre1yPasCnuKvWvyXKzmKhW)
 
-Unit Testing - [Software Test](https://cs.gmu.edu/~offutt/softwaretest/)
+## Unit Testing - 
+
+[Software Testing and Automation Specialization](https://www.coursera.org/specializations/software-testing-automation)
+
+[Software Test](https://cs.gmu.edu/~offutt/softwaretest/)
 
 [Full-Length Hacking Courses](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
 
