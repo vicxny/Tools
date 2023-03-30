@@ -43,11 +43,11 @@ Harvard - Computer Science:
 
 
 ## [Devops](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
-## Azure
+### Azure
 
 [Microsoft](https://www.coursera.org/instructor/microsoft) - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.google.com/search?q=Microsoft+Azure+Fundamentals+AZ-900+Exam+Prep&sourceid=chrome&ie=UTF-8)
 
-## AWS
+### AWS
 
 [AWS](https://www.coursera.org/aws) - [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals) & [AWS Cloud Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
 
