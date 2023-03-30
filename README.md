@@ -26,7 +26,6 @@
 
 [Full-Length Hacking Courses](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
 
-## [Devops](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
 
 ## Books
  
@@ -42,6 +41,8 @@ Harvard - Computer Science:
 - [Algorithms for Big Data (COMPSCI 229r)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) 
 - [Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 
+
+## [Devops](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
 ## Azure
 
 [Microsoft](https://www.coursera.org/instructor/microsoft) - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.google.com/search?q=Microsoft+Azure+Fundamentals+AZ-900+Exam+Prep&sourceid=chrome&ie=UTF-8)
