@@ -18,7 +18,7 @@
 
 [Beginner Boost 2021](https://www.youtube.com/playlist?list=PLrK9UeDMcQLre1yPasCnuKvWvyXKzmKhW)
 
-## Unit Testing - 
+## Unit Testing
 
 [Software Testing and Automation Specialization](https://www.coursera.org/specializations/software-testing-automation)
 
@@ -46,6 +46,8 @@ Harvard - Computer Science:
 ### Azure
 
 [Microsoft](https://www.coursera.org/instructor/microsoft) - [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization](https://www.google.com/search?q=Microsoft+Azure+Fundamentals+AZ-900+Exam+Prep&sourceid=chrome&ie=UTF-8)
+
+- [ ] [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
 ### AWS
 
