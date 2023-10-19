@@ -4,6 +4,7 @@
 
 - [Excalidraw](https://excalidraw.com/)
 - [Alteryx](https://www.alteryx.com/)
+- [Duotone](https://duotone.shapefactory.co/?f=eeeeee&t=ff8000&q=j)
 
 
 ## [VS Code](https://code.visualstudio.com/download)
