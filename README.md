@@ -2,8 +2,8 @@
 
 ## Website
 
-[Excalidraw](https://excalidraw.com/)
-[Alteryx](https://www.alteryx.com/)
+- [Excalidraw](https://excalidraw.com/)
+- [Alteryx](https://www.alteryx.com/)
 
 
 ## [VS Code](https://code.visualstudio.com/download)
