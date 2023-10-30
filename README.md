@@ -2,7 +2,7 @@
 
 ## Website
 
-- [Excalidraw](https://excalidraw.com/)
+- [Whiteboard](https://whiteboard.office.com/)
 - [Alteryx](https://www.alteryx.com/)
 - [Duotone](https://duotone.shapefactory.co/?f=eeeeee&t=ff8000&q=j)
 
